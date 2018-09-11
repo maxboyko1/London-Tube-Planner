@@ -1,0 +1,177 @@
+QUERY 1: Epping TO Star Lane
+
+1. Board the train at Epping station on the Central line, heading toward Stratford station. (0 minutes)
+Passing stations:
+-> Theydon Bois (3 minutes)
+-> Debden (6 minutes)
+-> Loughton (9 minutes)
+-> Buckhurst Hill (12 minutes)
+-> Woodford (14 minutes)
+-> South Woodford (17 minutes)
+-> Snaresbrook (20 minutes)
+-> Leytonstone (23 minutes)
+-> Leyton (25 minutes)
+
+2. Disembark at Stratford station and proceed on foot to the same station's DLR line departure platform. (28 minutes)
+
+3. Board the train at Stratford station on the DLR line, heading toward Star Lane station. (33 minutes)
+Passing stations:
+-> Stratford High Street (34 minutes)
+-> Abbey Road (35 minutes)
+-> West Ham (36 minutes)
+
+4. Arrive at destination station Star Lane. (38 minutes)
+
+
+QUERY 2: Upper Holloway TO Monument
+
+1. From Upper Holloway station, proceed on foot to the Northern line departure platform at the nearby Archway station. (0 minutes)
+
+2. Board the train at Archway station on the Northern line, heading toward Bank station. (3 minutes)
+Passing stations:
+-> Tufnell Park (5 minutes)
+-> Kentish Town (6 minutes)
+-> Camden Town (8 minutes)
+-> Mornington Crescent (10 minutes)
+-> Euston (12 minutes)
+-> King's Cross St Pancras (14 minutes)
+-> Angel (16 minutes)
+-> Old Street (19 minutes)
+-> Moorgate (21 minutes)
+
+3. Disembark at Bank station and proceed on foot to the nearby Monument station. (23 minutes)
+
+4. Arrive at destination station Monument. (26 minutes)
+
+
+QUERY 3: Edmonton Green TO Brondesbury
+
+1. Board the train at Edmonton Green station on the London Overground line, heading toward Seven Sisters station. (0 minutes)
+Passing stations:
+-> Silver Street (2 minutes)
+-> White Hart Lane (4 minutes)
+-> Bruce Grove (6 minutes)
+
+2. Disembark at Seven Sisters station and proceed on foot to the same station's Victoria line departure platform. (8 minutes)
+
+3. Board the train at Seven Sisters station on the Victoria line, heading toward Highbury & Islington station. (10 minutes)
+Passing stations:
+-> Finsbury Park (14 minutes)
+
+4. Disembark at Highbury & Islington station and proceed on foot to the same station's London Overground line departure platform. (16 minutes)
+
+5. Board the train at Highbury & Islington station on the London Overground line, heading toward Brondesbury station. (21 minutes)
+Passing stations:
+-> Caledonian Road & Barnsbury (24 minutes)
+-> Camden Road (27 minutes)
+-> Kentish Town West (30 minutes)
+-> Gospel Oak (32 minutes)
+-> Hampstead Heath (35 minutes)
+-> Finchley Road & Frognal (38 minutes)
+-> West Hampstead (39 minutes)
+
+6. Arrive at destination station Brondesbury. (41 minutes)
+
+
+QUERY 4: Uxbridge TO Bow Church
+
+1. Board the train at Uxbridge station on the Metropolitan line, heading toward Finchley Road station. (0 minutes)
+Passing stations:
+-> Hillingdon (4 minutes)
+-> Ickenham (6 minutes)
+-> Ruislip (8 minutes)
+-> Ruislip Manor (11 minutes)
+-> Eastcote (12 minutes)
+-> Rayners Lane (14 minutes)
+-> West Harrow (16 minutes)
+-> Harrow-on-the-Hill (18 minutes)
+-> Northwick Park (22 minutes)
+-> Preston Road (25 minutes)
+-> Wembley Park (27 minutes)
+
+2. Disembark at Finchley Road station and proceed on foot to the same station's Jubilee line departure platform. (34 minutes)
+
+3. Board the train at Finchley Road station on the Jubilee line, heading toward Canary Wharf station. (36 minutes)
+Passing stations:
+-> Swiss Cottage (37 minutes)
+-> St John's Wood (39 minutes)
+-> Baker Street (42 minutes)
+-> Bond Street (44 minutes)
+-> Green Park (46 minutes)
+-> Westminster (48 minutes)
+-> Waterloo (50 minutes)
+-> Southwark (51 minutes)
+-> London Bridge (53 minutes)
+-> Bermondsey (55 minutes)
+-> Canada Water (57 minutes)
+
+4. Disembark at Canary Wharf station and proceed on foot to the same station's DLR line departure platform. (59 minutes)
+
+5. Board the train at Canary Wharf station on the DLR line, heading toward Bow Church station. (62 minutes)
+Passing stations:
+-> West India Quay (64 minutes)
+-> Poplar (65 minutes)
+-> All Saints (68 minutes)
+-> Langdon Park (69 minutes)
+-> Devons Road (71 minutes)
+
+6. Arrive at destination station Bow Church. (72 minutes)
+
+
+QUERY 5: Shenfield TO Heathrow Terminal 5
+
+1. Board the train at Shenfield station on the TfL Rail line, heading toward Liverpool Street station. (0 minutes)
+Passing stations:
+-> Brentwood (6 minutes)
+-> Harold Wood (10 minutes)
+-> Gidea Park (12 minutes)
+-> Romford (14 minutes)
+-> Chadwell Heath (18 minutes)
+-> Goodmayes (20 minutes)
+-> Seven Kings (22 minutes)
+-> Ilford (24 minutes)
+-> Manor Park (27 minutes)
+-> Forest Gate (29 minutes)
+-> Maryland (31 minutes)
+-> Stratford (33 minutes)
+
+2. Disembark at Liverpool Street station and proceed on foot to the same station's Central line departure platform. (40 minutes)
+
+3. Board the train at Liverpool Street station on the Central line, heading toward Oxford Circus station. (43 minutes)
+Passing stations:
+-> Bank (45 minutes)
+-> St Paul's (47 minutes)
+-> Chancery Lane (49 minutes)
+-> Holborn (50 minutes)
+-> Tottenham Court Road (52 minutes)
+
+4. Disembark at Oxford Circus station and proceed on foot to the same station's Victoria line departure platform. (53 minutes)
+
+5. Board the train at Oxford Circus station on the Victoria line, heading toward Green Park station. (55 minutes)
+
+6. Disembark at Green Park station and proceed on foot to the same station's Piccadilly line departure platform. (57 minutes)
+
+7. Board the train at Green Park station on the Piccadilly line, heading toward Heathrow Terminal 5 station. (60 minutes)
+Passing stations:
+-> Hyde Park Corner (62 minutes)
+-> Knightsbridge (63 minutes)
+-> South Kensington (66 minutes)
+-> Gloucester Road (67 minutes)
+-> Earl's Court (70 minutes)
+-> Barons Court (73 minutes)
+-> Hammersmith (75 minutes)
+-> Turnham Green (79 minutes)
+-> Acton Town (83 minutes)
+-> South Ealing (86 minutes)
+-> Northfields (89 minutes)
+-> Boston Manor (91 minutes)
+-> Osterley (94 minutes)
+-> Hounslow East (96 minutes)
+-> Hounslow Central (97 minutes)
+-> Hounslow West (100 minutes)
+-> Hatton Cross (105 minutes)
+-> Heathrow Terminals 2 & 3 (109 minutes)
+
+8. Arrive at destination station Heathrow Terminal 5. (112 minutes)
+
+

@@ -55,7 +55,7 @@ int main ()
         std::string from_station = "";
         std::string token;
 
-        /* Read in commuter's desired starting station */
+        /* Read in commuter's desired starting station. */
         while (ss >> token && token.compare("TO"))
             from_station += " " + token;
         from_station.erase(0, 1);
@@ -117,7 +117,7 @@ int main ()
 void read_in_train_connections (std::vector<StationVertex>& station_vertices, 
         StationLineIDsMap& station_line_ids)
 {
-    /* Initialize the list of stations with a dummy placeholder vertex to 
+    /* Initialize the list of stations with a dummy placeholder vertex to allow 
      * "real" station IDs to start at 1, and their positions in the list to 
      * match their IDs. */    
     StationVertex cur_vertex = {0, "", "", {}};
@@ -257,7 +257,8 @@ std::deque<int> get_fastest_route (const std::vector<StationVertex>& station_ver
 
             /* Update the distances to and parent vertices of each vertex in 
              * v's adjacency list, if the discovery and addition of v to the
-             * tree has improved upon our current best known distance to it. */
+             * tree has improved upon our current best known travel time to 
+             * it. */
             for (int i = 0; i < nedges; ++i) {
                 int endpoint = station_vertices.at(v).edges.at(i).to_id;
                 int weight = station_vertices.at(v).edges.at(i).time_taken;
